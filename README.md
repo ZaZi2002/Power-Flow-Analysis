@@ -62,7 +62,3 @@ This analysis repeats the N-1 analysis after applying improvements to the system
 2. Run each part sequentially in MATLAB/Octave to perform the power flow analysis.
 3. The analysis results will be displayed in tables, and violations will be logged in the output files.
 4. Adjust system parameters to improve performance and rerun the analysis.
-
-## License
-
-This project is licensed under the MIT License.
